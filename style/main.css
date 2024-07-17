@@ -159,7 +159,7 @@ hr {
   -webkit-user-select: none;
   -moz-user-select: none;
   width: 480px;
-  height: 620px;
+  height: 500px;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
@@ -238,7 +238,7 @@ hr {
   position: relative;
   width: 80px;
   height: 80px;
-  margin: 200px;
+  margin: 300px;
   -webkit-transform: rotateX(-18deg) rotateY(15deg);
   -moz-transform: rotateX(-18deg) rotateY(15deg);
   -ms-transform: rotateX(-18deg) rotateY(15deg);
